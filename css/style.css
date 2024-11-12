@@ -12,7 +12,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background: url('/images/background.png') no-repeat center center fixed;
+    background: url('GOUKOUOLAKAKA/SITE/images/background.png') no-repeat center center fixed;
     background-size: cover; /* Permet à l'image de couvrir tout le fond */
     background-position: center center; /* Centrer l'image */
     background-attachment: fixed; /* Rendre l'image fixe lors du défilement */
